@@ -12,7 +12,7 @@ package com.mycompany.gitproject;
 public class Gitproject {
     
     public static int mul(int a, int b) {
-        return a * b;
+        return a * b + 1;
     }
 
     public static void main(String[] args) {
