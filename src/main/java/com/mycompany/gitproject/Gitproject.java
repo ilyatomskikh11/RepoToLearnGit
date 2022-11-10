@@ -11,8 +11,8 @@ package com.mycompany.gitproject;
  */
 public class Gitproject {
     
-    public static int sum(int a, int b) {
-        return a + b;
+    public static int mul(int a, int b) {
+        return a * b;
     }
 
     public static void main(String[] args) {
