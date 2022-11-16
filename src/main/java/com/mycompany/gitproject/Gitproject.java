@@ -11,11 +11,16 @@ package com.mycompany.gitproject;
  */
 public class Gitproject {
     
+
      public int add(int a, int b){
         return a + b;
+
+    public static int mul(int a, int b) {
+        return a * b + 1;
+
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello Worlddsgfkjdsgkjdrhesk!");
     }
 }
