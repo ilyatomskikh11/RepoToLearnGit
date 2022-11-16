@@ -14,7 +14,7 @@ public class Gitproject {
 
      public int add(int a, int b){
         return a + b;
-
+     }
     public static int mul(int a, int b) {
         return a * b + 1;
 
