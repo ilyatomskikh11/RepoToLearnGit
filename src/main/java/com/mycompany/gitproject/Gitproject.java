@@ -19,8 +19,11 @@ public class Gitproject {
         return a * b + 1;
 
     }
+    public int mul1() {
+        return 2*4;
+    }
 
     public static void main(String[] args) {
-        System.out.println("Hello Worlddsgfkjdsgkjdrhesk!");
+        System.out.println("Hello Worlddsdsgkjdrhesk!");
     }
 }
