@@ -22,7 +22,7 @@ public class Gitproject {
     }
 
     public static void main(String[] args) {
-        int m;
+        var m = -1;
         try {
             m = mul(2, 3);
          } catch (Exception ex) {
